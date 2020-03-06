@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_WithParameters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5201e214-01c2-4e8e-a6b1-4b75bc3c94c2</testCaseGuid>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>89827fa1-bbca-4a01-8926-74450b806362</id>
+      <masked>false</masked>
+      <name>PageN</name>
+   </variable>
+</TestCaseEntity>

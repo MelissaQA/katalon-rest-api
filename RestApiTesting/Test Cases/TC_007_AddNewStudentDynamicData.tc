@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007_AddNewStudentDynamicData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6265518-d86f-4f34-93af-bf172ce83378</testCaseGuid>
+   <variable>
+      <defaultValue>'Testing'</defaultValue>
+      <description></description>
+      <id>8b30882b-3d0c-4aee-925f-2ff24350628d</id>
+      <masked>false</masked>
+      <name>FN</name>
+   </variable>
+   <variable>
+      <defaultValue>'World'</defaultValue>
+      <description></description>
+      <id>0e721202-b894-4461-843c-4dcd989428e8</id>
+      <masked>false</masked>
+      <name>LN</name>
+   </variable>
+   <variable>
+      <defaultValue>'06-03-2020'</defaultValue>
+      <description></description>
+      <id>b9707e81-3958-4fda-ae24-c99857ff4228</id>
+      <masked>false</masked>
+      <name>DOB</name>
+   </variable>
+</TestCaseEntity>

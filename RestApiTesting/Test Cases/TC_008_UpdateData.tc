@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_UpdateData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6b5f7e9-790b-41eb-ad74-03709f9cc505</testCaseGuid>
+   <variable>
+      <defaultValue>1947</defaultValue>
+      <description></description>
+      <id>3996233c-58fd-40e2-bfd5-ab7dc423fad6</id>
+      <masked>false</masked>
+      <name>ID</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestingB'</defaultValue>
+      <description></description>
+      <id>ebb0799a-2daa-4763-9393-2df2af895484</id>
+      <masked>false</masked>
+      <name>FName</name>
+   </variable>
+</TestCaseEntity>
